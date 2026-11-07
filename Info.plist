@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Linefeed</string>
+	<key>CFBundleExecutable</key>
+	<string>Linefeed</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>app.linefeed.desktop</string>
+	<key>CFBundleName</key>
+	<string>Linefeed</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Linefeed contributors. MIT License.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Linefeed listens only while you record, and your speech stays on this Mac.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Linefeed takes a screenshot only when you circle something while recording.</string>
+</dict>
+</plist>
